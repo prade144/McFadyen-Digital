@@ -1,0 +1,40 @@
+.left_part_bk {
+  margin-top: 55px;
+}
+
+.left_part_bk .tab_links {
+  display: flex;
+  align-items: center;
+}
+
+.left_part_bk .tab_links p {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%;
+  font-family: "Roboto";
+  text-transform: uppercase;
+  color: #767676;
+  margin-right: 24px;
+  cursor: pointer;
+}
+
+.left_part_bk .tab_links p.active {
+  font-weight: 700;
+  color: #000;
+}
+
+.left_part_bk .left_desc {
+  color: #000;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  padding-right: 43px;
+}
+
+.left_part_bk .left_desc a {
+  text-transform: uppercase;
+  color: #000;
+}
