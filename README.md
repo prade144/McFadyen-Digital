@@ -1,6 +1,3 @@
-# McFadyen-Digital
-Test from McFadyen Digital
-
 Please see the project's running instructions below. 
 
 1. clone the repo
